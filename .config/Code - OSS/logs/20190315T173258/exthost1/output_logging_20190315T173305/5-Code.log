@@ -1,0 +1,12 @@
+[Running] cd "/home/mohamed/" && gcc test_vscode.c -o test_vscode && "/home/mohamed/"test_vscode
+/usr/bin/ld: /usr/lib/gcc/x86_64-pc-linux-gnu/8.2.1/../../../../lib/Scrt1.o: in function `_start':
+(.text+0x24): undefined reference to `main'
+collect2: error: ld returned 1 exit status
+
+[Done] exited with code=1 in 0.13 seconds
+
+[Running] cd "/home/mohamed/" && gcc test_vscode.c -o test_vscode && "/home/mohamed/"test_vscode
+Hello, World!
+
+[Done] exited with code=0 in 0.138 seconds
+

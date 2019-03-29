@@ -1,0 +1,20 @@
+[KFileDialog Settings]
+Recent Files[$e]=archlinux-aftermath.jpg,file:///mnt/d7681de7-e6b3-4a3d-b369-96f6d30fb4f8/death_note_anime-HD.jpg,file:///usr/share/backgrounds/archlinux/archlinux-aftermath.jpg
+Recent URLs[$e]=file:///mnt/d7681de7-e6b3-4a3d-b369-96f6d30fb4f8/
+
+[PlasmaRunnerManager]
+LaunchCounts=2 services_bluedeviladapters.desktop,2 services_Thunar.desktop,1 services_bluedevildevices.desktop,2 services_vmware-player.desktop,1 services_pcmanfm.desktop,4 services_blueman-manager.desktop,2 services_steam-wine.desktop,3 services_wine-Programs-Pro Evolution Soccer 2019-Uninstall Pro Evolution Soccer 2019.desktop,1 services_autostart.desktop,2 services_xdman.desktop,1 services_componentchooser.desktop,1 services_edb.desktop,1 services_termite.desktop,2 services_nvidia-settings.desktop,1 services_ccsm.desktop,2 services_grub-customizer.desktop,1 services_org.gnome.DiskUtility.desktop,1 services_steam-native.desktop,5 services_lightdm-gtk-greeter-settings.desktop
+pluginWhiteList=services,places,desktopsessions,PowerDevil,shell,bookmarks,recentdocuments,locations,baloosearch
+
+[PlasmaViews][Panel 2][Horizontal1920]
+thickness=26
+
+[PlasmaViews][Panel 2][Horizontal3840]
+thickness=42
+
+[ScreenConnectors]
+0=eDP-1
+1=:0.0
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js

@@ -1,0 +1,15 @@
+game:
+  arch: win64
+  exe: drive_c/Program Files (x86)/Battle.net/Battle.net.exe
+  prefix: /home/mohamed/Games/world-of-warcraft
+system:
+  env:
+    DXVK_HUD: '0'
+    DXVK_STATE_CACHE_PATH: /home/mohamed/Games/world-of-warcraft
+    __GL_SHADER_DISK_CACHE: '1'
+    __GL_SHADER_DISK_CACHE_PATH: /home/mohamed/Games/world-of-warcraft
+  exclude_processes: Agent.exe "Battle.net Helper.exe"
+wine:
+  dxvk: true
+  esync: true
+  version: tkg-4.0-x86_64

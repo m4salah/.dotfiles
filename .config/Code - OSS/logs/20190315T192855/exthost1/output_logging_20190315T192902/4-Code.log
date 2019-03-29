@@ -1,0 +1,5 @@
+[Running] cd "/home/mohamed/" && gcc test_vscode.c -o test_vscode && "/home/mohamed/"test_vscode
+Hello World!
+
+[Done] exited with code=0 in 0.19 seconds
+

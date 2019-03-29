@@ -1,0 +1,31 @@
+Some help for you to get in and out dwm
+=======================================
+
+How to open another terminal emulator
+-------------------------------------
+
+Press Shift-Alt-ENTER
+
+
+Tutorial about DWM
+------------------
+
+A tutorial is also available here:
+http://dwm.suckless.org/tutorial
+
+
+How to close dwm
+----------------
+
+To exit this Window Manager, please :
+* press Shift-Alt-Q for QWERTY keyboard
+* press Shift-Alt-A for AZERTY keyboard
+* etc… (the key just at the right of tab)
+
+Note: in rescue session, keys have been hard-coded for robustness against 
+keyboard layouts that do not have direct access to numbers,
+or have a no conventional HJKL placement.
+
+
+
+Press ENTER to close this window and exit the session

@@ -1,0 +1,20 @@
+Note about DWM
+==============
+
+dwm is a tiling window manager whose configuration is performed by code edition 
+and recompilation. For more info, please visit:
+http://dwm.suckless.org/
+
+
+What's dwm-custom ?
+===================
+
+dwm-custom helps you in installing and configuring dwm in your $HOME.
+
+You are currently using a rescue session produced by dwm-custom.
+To use a customized one, please launch the "dwm-custom-build" in a console as a 
+simple user.
+
+
+
+Would you like this process to be launched ? [answer: Y(es) or N(o)]

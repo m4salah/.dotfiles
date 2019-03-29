@@ -1,0 +1,33 @@
+Binary files dwm-6.1-orig/dwm and dwm-6.1/dwm differ
+diff -up dwm-6.1-orig/dwm.c dwm-6.1/dwm.c
+--- dwm-6.1-orig/dwm.c	2015-11-08 23:11:48.000000000 +0100
++++ dwm-6.1/dwm.c	2016-01-28 10:15:26.894334650 +0100
+@@ -194,6 +194,7 @@ static void resizeclient(Client *c, int
+ static void resizemouse(const Arg *arg);
+ static void restack(Monitor *m);
+ static void run(void);
++static void runAutostart(void);
+ static void scan(void);
+ static int sendevent(Client *c, Atom proto);
+ static void sendmon(Client *c, Monitor *m);
+@@ -1398,6 +1399,11 @@ run(void)
+ }
+ 
+ void
++runAutostart(void) {
++	system("cd \"${XDG_CONFIG_HOME:-$HOME/.config}\"/dwm-custom/rescue/misc; ./autostart.sh &");
++}
++
++void
+ scan(void)
+ {
+ 	unsigned int i, num;
+@@ -2134,6 +2140,7 @@ main(int argc, char *argv[])
+ 	checkotherwm();
+ 	setup();
+ 	scan();
++	runAutostart();
+ 	run();
+ 	cleanup();
+ 	XCloseDisplay(dpy);
+Binary files dwm-6.1-orig/dwm.o and dwm-6.1/dwm.o differ

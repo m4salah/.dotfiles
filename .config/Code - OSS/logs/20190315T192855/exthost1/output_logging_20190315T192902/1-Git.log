@@ -1,0 +1,18 @@
+Looking for git in: git
+Using git 2.21.0 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/mohamed
+> git status -z -u
+> git show :test_vscode.c
+> git ls-files --stage -- ./
+> git show :test_vscode.c
+> git ls-files --stage -- ./
+> git show :test_vscode.c
+> git ls-files --stage -- ./
+> git show :test_vscode.c
+> git ls-files --stage -- ./
+> git show :test_vscode.c
+> git ls-files --stage -- ./
+> git show :test_vscode.c
+> git ls-files --stage -- ./

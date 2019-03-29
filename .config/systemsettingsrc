@@ -1,0 +1,21 @@
+[DownloadDialog Settings]
+Height 1080=494
+Width 1920=700
+
+[KFileDialog Settings]
+Recent Files[$e]=archlinux-aftermath.jpg,file:$HOME/Downloads/space_eye-wallpaper-3554x1999.jpg,file:///mnt/d7681de7-e6b3-4a3d-b369-96f6d30fb4f8/death_note_anime-HD.jpg,file:///usr/share/backgrounds/archlinux/archlinux-aftermath.jpg
+Recent URLs[$e]=file:$HOME/Downloads/
+
+[MainWindow]
+Height 1080=700
+Height 1440=700
+Height 2160=700
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABAAAAAK8AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=1024
+Width 2560=1024
+Width 3840=1024
+
+[Notification Messages]
+FontSettingsChanged=false

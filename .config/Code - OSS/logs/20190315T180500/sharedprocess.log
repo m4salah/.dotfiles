@@ -1,0 +1,46 @@
+[2019-03-15 18:05:04.855] [sharedprocess] [info] main {"machineId":"4fd368a50cab7edf1f493950ad5427e90b9ac12fca180ac55f52481aaf7b6541"}
+[2019-03-15 18:05:05.095] [sharedprocess] [info] Scanned user extensions: 7
+[2019-03-15 18:05:05.187] [sharedprocess] [info] Scanned system extensions: 72
+[2019-03-15 18:05:05.189] [sharedprocess] [info] Deleted from disk danielpinto8zz6.c-cpp-compile-run /home/mohamed/.vscode-oss/extensions/danielpinto8zz6.c-cpp-compile-run-0.5.0
+[2019-03-15 18:05:05.611] [sharedprocess] [info] Scanned user extensions: 7
+[2019-03-15 18:05:05.659] [sharedprocess] [info] Scanned system extensions: 72
+[2019-03-15 18:05:07.782] [sharedprocess] [info] Scanned user extensions: 7
+[2019-03-15 18:05:36.791] [sharedprocess] [info] Scanned user extensions: 7
+[2019-03-15 18:05:37.161] [sharedprocess] [info] Scanned user extensions: 7
+[2019-03-15 18:05:37.168] [sharedprocess] [info] Scanned user extensions: 7
+[2019-03-15 18:05:37.266] [sharedprocess] [info] Scanned system extensions: 72
+[2019-03-15 18:05:37.280] [sharedprocess] [info] Scanned system extensions: 72
+[2019-03-15 18:05:44.893] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-03-15 18:07:10.892] [sharedprocess] [info] Installing extension: sallar.vscode-duotone-dark
+[2019-03-15 18:07:10.912] [sharedprocess] [info] Scanned user extensions: 7
+[2019-03-15 18:07:15.139] [sharedprocess] [info] Downloaded extension: sallar.vscode-duotone-dark /tmp/e0d0fc1a-ce84-4f7a-ae0d-fd43bbd1a6f9
+[2019-03-15 18:07:15.257] [sharedprocess] [info] Extracted extension to /home/mohamed/.vscode-oss/extensions/.sallar.vscode-duotone-dark-0.3.3: sallar.vscode-duotone-dark
+[2019-03-15 18:07:15.258] [sharedprocess] [info] Renamed to /home/mohamed/.vscode-oss/extensions/sallar.vscode-duotone-dark-0.3.3
+[2019-03-15 18:07:15.260] [sharedprocess] [info] Installation completed. sallar.vscode-duotone-dark
+[2019-03-15 18:07:15.273] [sharedprocess] [info] Extensions installed successfully: sallar.vscode-duotone-dark
+[2019-03-15 18:08:23.758] [sharedprocess] [info] Installing extension: brenix.hacker-theme
+[2019-03-15 18:08:23.776] [sharedprocess] [info] Scanned user extensions: 8
+[2019-03-15 18:08:25.775] [sharedprocess] [info] Downloaded extension: brenix.hacker-theme /tmp/fde08dc6-f579-44fc-9a96-b12066b79d36
+[2019-03-15 18:08:25.819] [sharedprocess] [info] Extracted extension to /home/mohamed/.vscode-oss/extensions/.brenix.hacker-theme-0.0.5: brenix.hacker-theme
+[2019-03-15 18:08:25.819] [sharedprocess] [info] Renamed to /home/mohamed/.vscode-oss/extensions/brenix.hacker-theme-0.0.5
+[2019-03-15 18:08:25.820] [sharedprocess] [info] Installation completed. brenix.hacker-theme
+[2019-03-15 18:08:25.830] [sharedprocess] [info] Extensions installed successfully: brenix.hacker-theme
+[2019-03-15 18:09:00.253] [sharedprocess] [info] Installing extension: jevakallio.vscode-hacker-typer
+[2019-03-15 18:09:00.270] [sharedprocess] [info] Scanned user extensions: 9
+[2019-03-15 18:09:09.096] [sharedprocess] [info] Downloaded extension: jevakallio.vscode-hacker-typer /tmp/b61f54de-9da6-4dd9-aadb-e0ffa018f6b6
+[2019-03-15 18:09:09.260] [sharedprocess] [info] Extracted extension to /home/mohamed/.vscode-oss/extensions/.jevakallio.vscode-hacker-typer-0.1.1: jevakallio.vscode-hacker-typer
+[2019-03-15 18:09:09.260] [sharedprocess] [info] Renamed to /home/mohamed/.vscode-oss/extensions/jevakallio.vscode-hacker-typer-0.1.1
+[2019-03-15 18:09:09.262] [sharedprocess] [info] Installation completed. jevakallio.vscode-hacker-typer
+[2019-03-15 18:09:09.272] [sharedprocess] [info] Extensions installed successfully: jevakallio.vscode-hacker-typer
+[2019-03-15 18:10:07.843] [sharedprocess] [info] Scanned user extensions: 10
+[2019-03-15 18:11:04.734] [sharedprocess] [info] Scanned user extensions: 10
+[2019-03-15 18:11:04.781] [sharedprocess] [info] Scanned system extensions: 72
+[2019-03-15 18:11:33.737] [sharedprocess] [info] Scanned user extensions: 10
+[2019-03-15 18:11:33.745] [sharedprocess] [info] Scanned user extensions: 10
+[2019-03-15 18:11:33.750] [sharedprocess] [info] Scanned user extensions: 10
+[2019-03-15 18:11:33.886] [sharedprocess] [info] Scanned system extensions: 72
+[2019-03-15 18:11:33.898] [sharedprocess] [info] Scanned system extensions: 72
+[2019-03-15 18:11:33.912] [sharedprocess] [info] Scanned system extensions: 72
+[2019-03-15 18:13:47.068] [sharedprocess] [info] Scanned user extensions: 10
+[2019-03-15 18:15:07.878] [sharedprocess] [info] Scanned user extensions: 10
+[2019-03-15 18:20:07.910] [sharedprocess] [info] Scanned user extensions: 10

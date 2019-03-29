@@ -1,0 +1,9 @@
+# start banal
+tint2 &
+# start wallpaper
+setbg &
+# make it 1920x1080
+xrandr --output eDP-1 --mode 1920x1080 --rate 120
+# tap to click
+xinput set-prop 11 289 1
+

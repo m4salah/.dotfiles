@@ -1,0 +1,22 @@
+POSTINSTALL notes
+=================
+
+Get back to rescue session
+--------------------------
+
+If you experienced troubles after this step, feel free to fall back to rescue 
+session by running:
+  $ dwm-custom-build -R
+
+WARNING about keyboard layout
+-----------------------------
+
+Keybinding issues may be face in case of non-QWERTY keyboard. You could find 
+the "keycode" patche used for this rescue session:
+  $ ls -l ~/.config/dwm-custom/rescue
+
+source: http://dwm.suckless.org/patches/keycode
+
+
+
+Would you like to close this session now ? [Y(es)]

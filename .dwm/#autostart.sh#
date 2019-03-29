@@ -1,0 +1,47 @@
+#!/bin/sh
+# make screen 1080 reslution
+xrandr --output eDP-1 --mode 1920x1080 --rate 120
+#set wallpaper
+setbg
+#tap to click on touchpad
+xinput set-prop 11 289 1
+#set keyboard layoout arabic and english
+setxkbmap -layout us,ar
+setxkbmap -option 'grp:alt_shift_toggle'
+# start power manager
+xfce4-power-manager
+# key binding configuration
+xbindkeys
+####################################################################
+############ statusbar stuff #######################################
+####################################################################
+
+dte(){
+  dte="$(date +"%A, %B %d | 🕒 %l:%M%p")"
+  echo -e "📅$dte"
+}
+
+upd(){
+  upd=`checkupdates | wc -l`
+  echo -e "⟳ $upd updates"
+}
+
+mem(){
+  mem=`free | awk '/Mem/ {printf "%d MiB/%d MiB\n", $3 / 1024.0, $2 / 1024.0 }'`
+  echo -e "🖪 $mem"
+}
+
+cpu(){
+  read cpu a b c previdle rest < /proc/stat
+  prevtotal=$((a+b+c+previdle))
+  sleep 0.5
+  read cpu a b c idle rest < /proc/stat
+  total=$((a+b+c+idle))
+  cpu=$((100*( (total-prevtotal) - (idle-previdle) ) / (total-prevtotal) ))
+  echo -e "💻 $cpu% cpu"
+}
+
+while true; do
+	xsetroot -name "$(~/.scripts/statusbar/volume) | $(cpu) | $(mem) | $(~/.scripts/statusbar/clock) | $(~/.scripts/statusbar/battery BAT0) | $(~/.scripts/statusbar/internet)"
+     sleep 10s    # Update time every ten seconds
+done &

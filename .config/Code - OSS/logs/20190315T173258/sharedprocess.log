@@ -1,0 +1,91 @@
+[2019-03-15 17:33:03.027] [sharedprocess] [info] main {"machineId":"4fd368a50cab7edf1f493950ad5427e90b9ac12fca180ac55f52481aaf7b6541"}
+[2019-03-15 17:33:03.166] [sharedprocess] [info] Scanned user extensions: 0
+[2019-03-15 17:33:03.276] [sharedprocess] [info] Scanned system extensions: 72
+[2019-03-15 17:33:03.788] [sharedprocess] [info] Scanned user extensions: 0
+[2019-03-15 17:33:03.792] [sharedprocess] [info] Scanned user extensions: 0
+[2019-03-15 17:33:03.906] [sharedprocess] [info] Scanned system extensions: 72
+[2019-03-15 17:33:03.916] [sharedprocess] [info] Scanned system extensions: 72
+[2019-03-15 17:33:05.584] [sharedprocess] [info] Scanned user extensions: 0
+[2019-03-15 17:33:10.493] [sharedprocess] [info] Scanned user extensions: 0
+[2019-03-15 17:33:10.499] [sharedprocess] [info] Scanned user extensions: 0
+[2019-03-15 17:33:10.502] [sharedprocess] [info] Scanned user extensions: 0
+[2019-03-15 17:33:10.516] [sharedprocess] [info] Scanned user extensions: 0
+[2019-03-15 17:33:10.669] [sharedprocess] [info] Scanned system extensions: 72
+[2019-03-15 17:33:10.682] [sharedprocess] [info] Scanned system extensions: 72
+[2019-03-15 17:33:10.694] [sharedprocess] [info] Scanned system extensions: 72
+[2019-03-15 17:33:43.057] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-03-15 17:36:36.191] [sharedprocess] [info] Installing extension: vscodevim.vim
+[2019-03-15 17:36:36.196] [sharedprocess] [info] Scanned user extensions: 0
+[2019-03-15 17:37:18.699] [sharedprocess] [info] Downloaded extension: vscodevim.vim /tmp/c4adb317-1a9c-4127-84b4-5673d393e7f5
+[2019-03-15 17:37:23.543] [sharedprocess] [info] Extracted extension to /home/mohamed/.vscode-oss/extensions/.vscodevim.vim-1.1.0: vscodevim.vim
+[2019-03-15 17:37:23.544] [sharedprocess] [info] Renamed to /home/mohamed/.vscode-oss/extensions/vscodevim.vim-1.1.0
+[2019-03-15 17:37:23.550] [sharedprocess] [info] Installation completed. vscodevim.vim
+[2019-03-15 17:37:23.566] [sharedprocess] [info] Extensions installed successfully: vscodevim.vim
+[2019-03-15 17:37:33.598] [sharedprocess] [info] Scanned user extensions: 1
+[2019-03-15 17:37:33.655] [sharedprocess] [info] Scanned system extensions: 72
+[2019-03-15 17:38:05.593] [sharedprocess] [info] Scanned user extensions: 1
+[2019-03-15 17:38:13.191] [sharedprocess] [info] Installing extension: danielpinto8zz6.c-cpp-compile-run
+[2019-03-15 17:38:13.197] [sharedprocess] [info] Scanned user extensions: 1
+[2019-03-15 17:38:15.533] [sharedprocess] [info] Downloaded extension: danielpinto8zz6.c-cpp-compile-run /tmp/11ff2a2d-0dc1-4778-adf2-d9d7a1db3ef7
+[2019-03-15 17:38:16.117] [sharedprocess] [info] Extracted extension to /home/mohamed/.vscode-oss/extensions/.danielpinto8zz6.c-cpp-compile-run-0.5.0: danielpinto8zz6.c-cpp-compile-run
+[2019-03-15 17:38:16.117] [sharedprocess] [info] Renamed to /home/mohamed/.vscode-oss/extensions/danielpinto8zz6.c-cpp-compile-run-0.5.0
+[2019-03-15 17:38:16.119] [sharedprocess] [info] Installation completed. danielpinto8zz6.c-cpp-compile-run
+[2019-03-15 17:38:16.131] [sharedprocess] [info] Extensions installed successfully: danielpinto8zz6.c-cpp-compile-run
+[2019-03-15 17:38:17.648] [sharedprocess] [info] Scanned user extensions: 2
+[2019-03-15 17:38:17.649] [sharedprocess] [info] Uninstalling extension: danielpinto8zz6.c-cpp-compile-run
+[2019-03-15 17:38:17.655] [sharedprocess] [info] Scanned user extensions: 2
+[2019-03-15 17:38:17.665] [sharedprocess] [info] Successfully uninstalled extension: danielpinto8zz6.c-cpp-compile-run
+[2019-03-15 17:38:30.090] [sharedprocess] [info] Installing extension: mitaki28.vscode-clang
+[2019-03-15 17:38:30.102] [sharedprocess] [info] Scanned user extensions: 1
+[2019-03-15 17:38:30.764] [sharedprocess] [info] Downloaded extension: mitaki28.vscode-clang /tmp/fb3602cc-273f-4b3e-a165-69befa02cf2a
+[2019-03-15 17:38:30.810] [sharedprocess] [info] Extracted extension to /home/mohamed/.vscode-oss/extensions/.mitaki28.vscode-clang-0.2.3: mitaki28.vscode-clang
+[2019-03-15 17:38:30.810] [sharedprocess] [info] Renamed to /home/mohamed/.vscode-oss/extensions/mitaki28.vscode-clang-0.2.3
+[2019-03-15 17:38:30.811] [sharedprocess] [info] Installation completed. mitaki28.vscode-clang
+[2019-03-15 17:38:30.821] [sharedprocess] [info] Extensions installed successfully: mitaki28.vscode-clang
+[2019-03-15 17:38:37.900] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2019-03-15 17:38:37.915] [sharedprocess] [info] Scanned user extensions: 2
+[2019-03-15 17:40:02.311] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /tmp/b0b814eb-e32f-4503-92b4-bcc16588624b
+[2019-03-15 17:40:03.821] [sharedprocess] [info] Extracted extension to /home/mohamed/.vscode-oss/extensions/.ms-vscode.cpptools-0.21.0: ms-vscode.cpptools
+[2019-03-15 17:40:03.822] [sharedprocess] [info] Renamed to /home/mohamed/.vscode-oss/extensions/ms-vscode.cpptools-0.21.0
+[2019-03-15 17:40:03.829] [sharedprocess] [info] Installation completed. ms-vscode.cpptools
+[2019-03-15 17:40:03.843] [sharedprocess] [info] Extensions installed successfully: ms-vscode.cpptools
+[2019-03-15 17:43:05.615] [sharedprocess] [info] Scanned user extensions: 3
+[2019-03-15 17:43:10.898] [sharedprocess] [info] Installing extension: austin.code-gnu-global
+[2019-03-15 17:43:10.911] [sharedprocess] [info] Scanned user extensions: 3
+[2019-03-15 17:44:51.788] [sharedprocess] [info] Downloaded extension: austin.code-gnu-global /tmp/36e6fd30-bb9a-4dc2-a1e8-41fe09013566
+[2019-03-15 17:44:51.906] [sharedprocess] [info] Extracted extension to /home/mohamed/.vscode-oss/extensions/.austin.code-gnu-global-0.2.2: austin.code-gnu-global
+[2019-03-15 17:44:51.907] [sharedprocess] [info] Renamed to /home/mohamed/.vscode-oss/extensions/austin.code-gnu-global-0.2.2
+[2019-03-15 17:44:51.908] [sharedprocess] [info] Installation completed. austin.code-gnu-global
+[2019-03-15 17:44:51.919] [sharedprocess] [info] Extensions installed successfully: austin.code-gnu-global
+[2019-03-15 17:48:05.653] [sharedprocess] [info] Scanned user extensions: 4
+[2019-03-15 17:50:00.361] [sharedprocess] [info] Installing extension: formulahendry.code-runner
+[2019-03-15 17:50:00.374] [sharedprocess] [info] Scanned user extensions: 4
+[2019-03-15 17:53:05.683] [sharedprocess] [info] Scanned user extensions: 4
+[2019-03-15 17:53:34.214] [sharedprocess] [error] Failed to install extension: formulahendry.code-runner 
+[2019-03-15 17:54:42.276] [sharedprocess] [info] Installing extension: solarliner.linux-themes
+[2019-03-15 17:54:42.290] [sharedprocess] [info] Scanned user extensions: 4
+[2019-03-15 17:55:05.966] [sharedprocess] [info] Downloaded extension: solarliner.linux-themes /tmp/61277806-44fe-4a0c-9231-34f5b5729f23
+[2019-03-15 17:55:06.092] [sharedprocess] [info] Extracted extension to /home/mohamed/.vscode-oss/extensions/.solarliner.linux-themes-1.0.1: solarliner.linux-themes
+[2019-03-15 17:55:06.093] [sharedprocess] [info] Renamed to /home/mohamed/.vscode-oss/extensions/solarliner.linux-themes-1.0.1
+[2019-03-15 17:55:06.094] [sharedprocess] [info] Installation completed. solarliner.linux-themes
+[2019-03-15 17:55:06.104] [sharedprocess] [info] Extensions installed successfully: solarliner.linux-themes
+[2019-03-15 17:56:29.408] [sharedprocess] [info] Scanned user extensions: 5
+[2019-03-15 17:56:29.463] [sharedprocess] [info] Scanned system extensions: 72
+[2019-03-15 17:56:42.848] [sharedprocess] [info] Installing extension: ms-python.python
+[2019-03-15 17:56:42.878] [sharedprocess] [info] Scanned user extensions: 5
+[2019-03-15 17:58:05.717] [sharedprocess] [info] Scanned user extensions: 5
+[2019-03-15 17:58:46.507] [sharedprocess] [info] Installing extension: formulahendry.code-runner
+[2019-03-15 17:58:46.533] [sharedprocess] [info] Scanned user extensions: 5
+[2019-03-15 17:58:54.968] [sharedprocess] [info] Downloaded extension: ms-python.python /tmp/ccfe4c95-d5f9-48a6-a091-d0e64cfcc91c
+[2019-03-15 17:58:57.237] [sharedprocess] [info] Extracted extension to /home/mohamed/.vscode-oss/extensions/.ms-python.python-2019.2.5558: ms-python.python
+[2019-03-15 17:58:57.237] [sharedprocess] [info] Renamed to /home/mohamed/.vscode-oss/extensions/ms-python.python-2019.2.5558
+[2019-03-15 17:58:57.251] [sharedprocess] [info] Installation completed. ms-python.python
+[2019-03-15 17:58:57.268] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2019-03-15 17:59:21.971] [sharedprocess] [info] Downloaded extension: formulahendry.code-runner /tmp/ac334022-e854-4479-ad06-419f69047fb8
+[2019-03-15 17:59:23.409] [sharedprocess] [info] Extracted extension to /home/mohamed/.vscode-oss/extensions/.formulahendry.code-runner-0.9.7: formulahendry.code-runner
+[2019-03-15 17:59:23.409] [sharedprocess] [info] Renamed to /home/mohamed/.vscode-oss/extensions/formulahendry.code-runner-0.9.7
+[2019-03-15 17:59:23.412] [sharedprocess] [info] Installation completed. formulahendry.code-runner
+[2019-03-15 17:59:23.426] [sharedprocess] [info] Extensions installed successfully: formulahendry.code-runner
+[2019-03-15 18:01:43.180] [sharedprocess] [info] Scanned user extensions: 7
+[2019-03-15 18:01:43.230] [sharedprocess] [info] Scanned system extensions: 72
+[2019-03-15 18:03:05.749] [sharedprocess] [info] Scanned user extensions: 7
